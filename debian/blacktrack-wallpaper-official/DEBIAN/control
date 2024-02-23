@@ -1,0 +1,9 @@
+Package: blacktrack-wallpaper-official
+Version: 1.0-1
+Architecture: amd64
+Maintainer: joe <joe@localhost.localdomain>
+Installed-Size: 29667
+Section: misc
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: All official wallpaper for blacktrack
